@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+
+	<head>
+		<meta charset="utf-8" />
+		<meta name="author" content="Maria Dubiel">
+		<title>History of Music</title>
+		<meta name="description" content="Want to know more about history of music? Welcome! Here it is everything you need to know!" />
+		<meta name="keywords" content="history of music, music history, music, history, classical music, classical composers, Prehistoric music, Ancient music, Medieval music, Renaissance music, Baroque music, Classical period, Romantic music, 20th-century music" />
+
+		<link rel="stylesheet" href="style.css" type="text/css">
+		<link rel="preconnect" href="https://fonts.googleapis.com">
+		<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+		<link href="https://fonts.googleapis.com/css2?family=Lato&display=swap" rel="stylesheet">
+		<link rel="preconnect" href="https://fonts.googleapis.com">
+		<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+		<link href="https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@500&family=Lato&family=Merriweather:wght@700&display=swap" rel="stylesheet"> 
+	</head>
+
+	<body>
+	
+		<div id="container">
+	
+			<div class="rectangle">
+	
+				<div id="logo"><h1>History of Music</h1></div>
+	
+			</div>
+
+			<div class="rectangle">
+			
+				<div class="square">
+			
+					<div id="tile1">
+					
+						<a href="www.index1" class="tilelink"><div id="home"><h2>Home</h2></div></a>
+					
+					</div>
+				
+				</div>
+			
+				<div class="square">
+			
+					<div id="tile2">
+					
+					<a href="eras.html" class="tilelink"><div id="eras"><h2>Eras in music</h2></div></a>
+					
+					</div>
+				
+				</div>
+				
+				<div class="square">
+			
+					<div id="tile3">
+					
+					<a href="rec.html" class="tilelink"><div id="rec"><h2>Classical music recommendations</h2></div></a>
+					
+					</div>
+				
+				</div>
+			
+				<div class="square">
+			
+					<div id="tile4">
+					
+					<a href="author.html" class="tilelink"><div id="author"><h2>About the author</h2></div></a>
+					
+					</div>
+				
+				</div>
+				
+				<div style="clear:both;"></div>
+				
+			<div id="main">
+			
+			</br>
+			
+			Welcome to my website! Here you’ll be able to discover more about the fascinating topic, which is music theory, specifically the history of music. If you’re new here, you absolutely have the check the ‘About the author’ section. Let’s get to know each other! :)
+			
+			</br></br>
+			
+			<img src="img/violin.jpg">
+			
+			
+			</div>
+
+			<div class="rectangle">2023 &copy; All rights reserved. Author: Maria Dubiel.</div>
+			
+			</div>
+			
+			
+	
+		</div>	
+		
+		
+	
+
+	
+	</body>
+
+
+</html>
